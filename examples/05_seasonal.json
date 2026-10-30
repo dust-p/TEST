@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"name": "T-Shirt", "price": 350, "category": "Clothing"},
+    {"name": "Hat", "price": 250, "category": "Accessories"},
+    {"name": "Belt", "price": 230, "category": "Accessories"}
+  ],
+  "campaigns": [{"type": "seasonal", "every": 300, "discount": 40}]
+}

@@ -1,0 +1,7 @@
+{
+  "items": [{"name": "T-Shirt", "price": 350, "category": "Clothing"}],
+  "campaigns": [
+    {"type": "fixed_amount", "amount": 50},
+    {"type": "percentage", "percentage": 10}
+  ]
+}

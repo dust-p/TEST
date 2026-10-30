@@ -1,0 +1,9 @@
+{
+  "items": [
+    {"name": "T-Shirt", "price": 350, "category": "Clothing"},
+    {"name": "Hoodie", "price": 700, "category": "Clothing"},
+    {"name": "Watch", "price": 850, "category": "Electronics"},
+    {"name": "Bag", "price": 640, "category": "Accessories"}
+  ],
+  "campaigns": [{"type": "category_percentage", "category": "Clothing", "amount": 15}]
+}
